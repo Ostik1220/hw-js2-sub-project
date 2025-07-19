@@ -1,0 +1,17 @@
+body{
+    background: url("https://img.goodfon.com/wallpaper/big/1/4b/abstract-dark-colour-tma-fon.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    color: aliceblue;
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.input{
+    background-color:transparent;
+    width: 90%;
+    border-radius: 10px;
+}
